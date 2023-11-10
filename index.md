@@ -1,5 +1,7 @@
-# This is an `<h1>` header, which is the largest
+# Teacher 2.0
 
-## This is an `<h2>` header
+## Welcome to the new World of Education
 
-###### This is an `<h6>` header, which is the smallest
+![Teacher 4.0](https://your_image_hosting_service.com/upload/teacher_4.0_image.png)
+
+###### Hope you like it
